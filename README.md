@@ -38,10 +38,10 @@ Tables Used:
 Tech Stack
 
 - Python (Pandas)
+- Jupyter Notebook
 - SQL (MySQL)
 - Power BI
 - DAX
-- Jupyter Notebook
 - Git & GitHub
 
 ---
